@@ -1,0 +1,167 @@
+{
+  "presetType": "drawing_set",
+  "version": "2.0",
+  "presetSubType": "Riso",
+  "presetName": "SCR",
+  "enabled": true,
+  "userCreated": true,
+  "data": {
+    "type": "User",
+    "name": "New Preset",
+    "pens": [
+      {
+        "type": "CMYK",
+        "name": "Black",
+        "argb": -16777216,
+        "distributionWeight": 100,
+        "strokeSize": 1.0,
+        "isEnabled": false
+      },
+      {
+        "type": "CMYK",
+        "name": "Yellow",
+        "argb": -6400,
+        "distributionWeight": 100,
+        "strokeSize": 1.0,
+        "isEnabled": true
+      },
+      {
+        "type": "CMYK",
+        "name": "Red",
+        "argb": -2019052,
+        "distributionWeight": 100,
+        "strokeSize": 1.0,
+        "isEnabled": false
+      },
+      {
+        "type": "CMYK",
+        "name": "Blue",
+        "argb": -16747073,
+        "distributionWeight": 100,
+        "strokeSize": 1.0,
+        "isEnabled": true
+      },
+      {
+        "type": "CMYK",
+        "name": "Violet",
+        "argb": -9021007,
+        "distributionWeight": 100,
+        "strokeSize": 1.0,
+        "isEnabled": false
+      },
+      {
+        "type": "CMYK",
+        "name": "Orange",
+        "argb": -37841,
+        "distributionWeight": 100,
+        "strokeSize": 1.0,
+        "isEnabled": false
+      },
+      {
+        "type": "CMYK",
+        "name": "Fluo-Pink",
+        "argb": -46672,
+        "distributionWeight": 100,
+        "strokeSize": 1.0,
+        "isEnabled": false
+      },
+      {
+        "type": "CMYK",
+        "name": "Green",
+        "argb": -15623838,
+        "distributionWeight": 100,
+        "strokeSize": 1.0,
+        "isEnabled": false
+      },
+      {
+        "type": "CMYK",
+        "name": "Bright Olive Green",
+        "argb": -4939991,
+        "distributionWeight": 100,
+        "strokeSize": 1.0,
+        "isEnabled": false
+      },
+      {
+        "type": "CMYK",
+        "name": "Light Lime",
+        "argb": -1839787,
+        "distributionWeight": 100,
+        "strokeSize": 1.0,
+        "isEnabled": false
+      },
+      {
+        "type": "CMYK",
+        "name": "Aqua",
+        "argb": -10565403,
+        "distributionWeight": 100,
+        "strokeSize": 1.0,
+        "isEnabled": false
+      },
+      {
+        "type": "CMYK",
+        "name": "Fluo-Orange",
+        "argb": -35721,
+        "distributionWeight": 100,
+        "strokeSize": 1.0,
+        "isEnabled": false
+      },
+      {
+        "type": "CMYK",
+        "name": "Burgundy",
+        "argb": -7254414,
+        "distributionWeight": 100,
+        "strokeSize": 1.0,
+        "isEnabled": false
+      },
+      {
+        "type": "CMYK",
+        "name": "Light Gray",
+        "argb": -7829110,
+        "distributionWeight": 100,
+        "strokeSize": 1.0,
+        "isEnabled": false
+      },
+      {
+        "type": "CMYK",
+        "name": "Metallic Gold",
+        "argb": -5467282,
+        "distributionWeight": 100,
+        "strokeSize": 1.0,
+        "isEnabled": false
+      },
+      {
+        "type": "CMYK",
+        "name": "Teal",
+        "argb": -16743542,
+        "distributionWeight": 100,
+        "strokeSize": 1.0,
+        "isEnabled": false
+      },
+      {
+        "type": "CMYK",
+        "name": "Bubble Gum",
+        "argb": -424758,
+        "distributionWeight": 100,
+        "strokeSize": 1.0,
+        "isEnabled": false
+      },
+      {
+        "type": "CMYK",
+        "name": "SunFlower",
+        "argb": -19183,
+        "distributionWeight": 100,
+        "strokeSize": 1.0,
+        "isEnabled": false
+      },
+      {
+        "type": "CMYK",
+        "name": "CornFlower",
+        "argb": -10311451,
+        "distributionWeight": 100,
+        "strokeSize": 1.0,
+        "isEnabled": false
+      }
+    ],
+    "colorHandler": "Default"
+  }
+}
